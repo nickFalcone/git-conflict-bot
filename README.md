@@ -1,1 +1,1 @@
-# git-conflict-bot
+# Git Conflict Bot
