@@ -1,6 +1,6 @@
 # Git conflict Slack bot
 
-Preamble
+Notify a Slack channel about git merge conflicts. This could be helpful to run automatically on long-lived development branches, or as a post-merge webhook.
 
 ## Install
 
